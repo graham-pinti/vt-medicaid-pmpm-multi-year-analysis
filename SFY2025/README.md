@@ -66,7 +66,7 @@ These mechanisms could not be individually decomposed without category-level cla
 
 ![Cost Impact by MEG](cost_impact_by_meg.png)
 
-Every category shows a dollar impact in the same direction, consistent with a portfolio-wide cost-intensity shift rather than a few isolated outliers.
+Nearly every category shows a dollar impact in the same direction, consistent with a portfolio-wide cost-intensity shift rather than a few isolated outliers.
 
 ![Enrollment vs PMPM Variance](enroll_var_v_pmpm_var_by_meg.png)
 
